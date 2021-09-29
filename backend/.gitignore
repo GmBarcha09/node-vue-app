@@ -1,0 +1,10 @@
+node_modules
+prod-server
+build
+logs
+
+
+.env
+yarn.lock
+yarn-error.log
+
